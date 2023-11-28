@@ -1,7 +1,7 @@
 # raspberry_pi_4
 
 
-# raspberry_pi_4
+
 
 to set static wireless lan ip address 
 1. click the wifi icon,
